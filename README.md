@@ -1,0 +1,2 @@
+# bcruby-theme
+Theme Wordpress
